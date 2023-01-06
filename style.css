@@ -1,1 +1,17 @@
 
+body {
+  
+  background-color: #111;
+  color: #fff;
+  font-family: Arial;
+  
+  margin: 10% 15% 10%
+  
+}
+.exp-header {
+  text-transform: uppercase;
+  border-top: 4px solid #bae;
+  border-bottom: 4px solid #bae;
+  text-align: center;
+
+}
